@@ -1,0 +1,1 @@
+Files in the Working folder **will NOT be uploaded or synced** with any other devices/services. This is where you put anything unfinished, such as your programs to generate raw data. Please remember to put processed files into Code, Data, Docs, or Results folder to keep track of them.
