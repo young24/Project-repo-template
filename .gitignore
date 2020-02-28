@@ -1,5 +1,19 @@
+# ignore Working folder
+Working/
+
 # ignore temporary files at Code directory
 Code/.ipynb_checkpoints
 
-# ignore Working folder
-Working/
+# MS office temporary files
+**/~$*.doc*
+**/~$*.docx*
+
+# Excel temporary
+**/~$*.xls*
+**/~$*.xlsx*
+# Excel Backup File
+**/*.xlk
+
+# PowerPoint temporary
+**/~$*.ppt*
+**/~$*.pptx*
